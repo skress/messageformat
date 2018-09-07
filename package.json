@@ -21,6 +21,7 @@
   "repository": "messageformat/messageformat",
   "main": "lib/messageformat.js",
   "files": [
+    "cli",
     "example",
     "index.d.ts",
     "lib",
